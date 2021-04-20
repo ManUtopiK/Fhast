@@ -1,2 +1,2 @@
-# fhast
+# Fhast
 Fastify + Hasura + Svelte + Tailwindcss
